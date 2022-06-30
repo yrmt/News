@@ -1,0 +1,6 @@
+selenium==3.141.0
+webdriver-manager==3.5.4
+flask
+sklearn
+PyGithub
+#Naked bitch
